@@ -1,47 +1,43 @@
 🗓️ WP Simple Booking – For Doctors, Coaches & Consultations
+
 A lightweight and intuitive WordPress plugin designed for doctors, coaches, therapists, and consultation-based professionals to manage appointment bookings efficiently.
 
 🔧 Features
+
 ✅ Frontend Booking Form (Static)
+
 A minimal and clean booking form that collects:
 
-Name
-
-Email
-
-Phone
-
-Date
-
-Time
+  Name, Email, Phone, Date, Time
 
 ⚙️ Admin Settings Panel
+
 Configure:
 
-Consultation duration (e.g., 30 minutes, 1 hour)
+  Consultation duration (e.g., 30 minutes, 1 hour)
 
-Working days and available time slots
+  Working days and available time slots
 
 📧 Email Notifications
-Clients automatically receive a confirmation email upon successful booking.
+
+  Clients automatically receive a confirmation email upon successful booking.
 
 📂 Booking Management (Admin Area)
-View all submitted bookings
 
-Filter bookings by:
+  View all submitted bookings
 
-Specific date
+  Filter bookings by: Specific date, Upcoming days
 
-Upcoming days
-
-Easily manage and keep track of your schedule
+  Easily manage and keep track of your schedule
 
 🔒 Smart Scheduling Constraints
+
 Admin cannot modify or remove a working day or time slot unless there are no upcoming bookings for that day.
 
 Ensures data integrity and avoids accidental cancellations.
 
 🚀 Coming in the Pro Version
+
 The paid version (coming soon) will include:
 
 Dynamic form builder for custom booking fields
