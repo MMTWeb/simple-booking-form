@@ -1,0 +1,11 @@
+/**
+ * Simple Booking Form Backend StyleSheet
+*/
+
+.sbf-booking-setting-page .form-table tr.days-time-tr:not(:last-child) {
+    border-bottom: 1px solid black;
+}
+
+.sbf-booking-table-page form{
+    margin-bottom: 20px;
+}
